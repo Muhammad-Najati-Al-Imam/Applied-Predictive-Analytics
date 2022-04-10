@@ -5,7 +5,7 @@ Federated Machine Learning and Applications in Marketing
 #
 **Summary**
 ###
-Designing a Federated Machine Learning model on marketing data to demonstrate its privacy-preserving capabilities
+Designing a Federated Machine Learning model on marketing data to demonstrate its privacy-preserving capabilities.
 #
 **Course Overview**
 ###
